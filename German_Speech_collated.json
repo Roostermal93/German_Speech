@@ -1,1 +1,28 @@
-ew0KICAgICJjb3VudCI6IDMsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICIxZTcyODNiMy1jOTJiLTRiNDQtOWQ5OS01NzA4YzdlNzE3M2UiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJHZXJtYW4iLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9HZXJtYW4vMWU3MjgzYjMtYzkyYi00YjQ0LTlkOTktNTcwOGM3ZTcxNzNlLzFlNzI4M2IzLWM5MmItNGI0NC05ZDk5LTU3MDhjN2U3MTczZS5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI0ZWM0YTExMi1jNWI5LTRjYjctYmZmYy02NTg2YjQ1OTlhNTkiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJHZXJtYW4iLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9HZXJtYW4vNGVjNGExMTItYzViOS00Y2I3LWJmZmMtNjU4NmI0NTk5YTU5LzRlYzRhMTEyLWM1YjktNGNiNy1iZmZjLTY1ODZiNDU5OWE1OS5tcDQiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICJmYTM3ZjkwOC1mMzdlLTRlZmItOTZhNy0zODM3YjU1ODdiNmIiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJHZXJtYW4iLA0KICAgICAgICAgICAgInR5cGUiOiAiU3BlZWNoIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L1NwZWVjaC9HZXJtYW4vZmEzN2Y5MDgtZjM3ZS00ZWZiLTk2YTctMzgzN2I1NTg3YjZiL2ZhMzdmOTA4LWYzN2UtNGVmYi05NmE3LTM4MzdiNTU4N2I2Yi5tcDQiDQogICAgICAgIH0NCiAgICBdDQp9
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "1e7283b3-c92b-4b44-9d99-5708c7e7173e",
+            "collectionId": "German",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/German/German_Speech/1e7283b3-c92b-4b44-9d99-5708c7e7173e/1e7283b3-c92b-4b44-9d99-5708c7e7173e_de_Male.mp4"
+        },
+        {
+            "id": "4ec4a112-c5b9-4cb7-bffc-6586b4599a59",
+            "collectionId": "German",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/German/German_Speech/4ec4a112-c5b9-4cb7-bffc-6586b4599a59/4ec4a112-c5b9-4cb7-bffc-6586b4599a59_de_Male.mp4"
+        },
+        {
+            "id": "fa37f908-f37e-4efb-96a7-3837b5587b6b",
+            "collectionId": "German",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/German/German_Speech/fa37f908-f37e-4efb-96a7-3837b5587b6b/fa37f908-f37e-4efb-96a7-3837b5587b6b_de_Male.mp4"
+        }
+    ]
+}
