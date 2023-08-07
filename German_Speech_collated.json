@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 5,
     "next": null,
     "previous": null,
     "results": [
@@ -18,11 +18,25 @@
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/German/4ec4a112-c5b9-4cb7-bffc-6586b4599a59_ge_Male.mp4"
         },
         {
+            "id": "cdfe1212-54da-4b7e-95b7-b0fdb170ca20",
+            "collectionId": "German",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/German/cdfe1212-54da-4b7e-95b7-b0fdb170ca20_ge_Male.mp4"
+        },
+        {
             "id": "fa37f908-f37e-4efb-96a7-3837b5587b6b",
             "collectionId": "German",
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/German/fa37f908-f37e-4efb-96a7-3837b5587b6b_ge_Male.mp4"
+        },
+        {
+            "id": "fc463592-e73b-44f9-a61f-f53ea954f138",
+            "collectionId": "German",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/German/fc463592-e73b-44f9-a61f-f53ea954f138_ge_Male.mp4"
         }
     ]
 }
